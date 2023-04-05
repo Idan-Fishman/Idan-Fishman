@@ -1,8 +1,14 @@
 ### Hey! I'm [@Idan-Fishman](https://fishman.dev) 👋
 
-I'm a DevOps Engineer & Solution Architect from Israel. 🇮🇱
+I'm a DevOps Engineer and Solution Architect from Israel. 🇮🇱
 
-I have over 5 years of experience in the defense industry, I am a seasoned DevOps Engineer & Solution Architect. I have designed and implemented complex cloud solutions on Azure, AWS, and Google Cloud. ☁️
+I have over 5 years of experience in the defense industry, I am a seasoned DevOps Engineer and Solution Architect. I have designed and implemented complex cloud solutions on Azure, AWS, and Google Cloud. ☁️
+
+I am passionate about designing and implementing distributed systems over AWS, Google Cloud and hybrid environments aswell. 🚀
+
+I am proficient in various modern tools and technologies, such as Terraform, Kubernetes, Docker, GitHub Actions, Go, Python, React, and NextJS. 🤖
+
+If you would like to have my help with your team and product, feel free to **contact me.** 🤓
 
 Yo can find me on:
 * [My website: fishman.dev](https://fishman.dev)
@@ -13,13 +19,3 @@ Yo can find me on:
 **Idan-Fishman/Idan-Fishman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
