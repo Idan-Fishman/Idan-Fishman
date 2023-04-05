@@ -2,6 +2,8 @@
 
 I'm a DevOps Engineer & Solution Architect from Israel. 🇮🇱
 
+I have over 5 years of experience in the defense industry, I am a seasoned DevOps Engineer & Solution Architect. I have designed and implemented complex cloud solutions on Azure, AWS, and Google Cloud. ☁️
+
 Yo can find me on:
 * [My website: fishman.dev](https://fishman.dev)
 * [GitHub as @Idan-Fishman (you are here)](https://github.com/Idan-Fishman)
