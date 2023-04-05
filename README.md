@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey! I'm [@Idan-Fishman](https://fishman.dev) 👋
+
+I'm a DevOps Engineer & Solution Architect from Israel. 🇮🇱
+
+Yo can find me on:
+* [My website: fishman.dev](https://fishman.dev)
+* [GitHub as @Idan-Fishman (you are here)](https://github.com/Idan-Fishman)
+* [LinkedIn](https://linkedin.com/in/idan-fishman)
 
 <!--
 **Idan-Fishman/Idan-Fishman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
