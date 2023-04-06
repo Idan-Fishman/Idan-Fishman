@@ -2,7 +2,7 @@
 
 I'm a DevOps Engineer and Solution Architect from Israel. 🇮🇱
 
-With over 5 years of experience in the military industry, I am an experienced DevOps Engineer, DevOps Team Leader and Solution Architect. I have designed and implemented complex cloud solutions on Azure, AWS, and Google Cloud. ☁️
+With over 5 years of experience in the military industry, I am an experienced DevOps Engineer, and Solution Architect. I have designed and implemented complex cloud solutions on Azure, AWS, and Google Cloud. ☁️
 
 My passion lies in designing and implementing distributed systems across AWS, Google Cloud, and hybrid environments. 🚀
 
