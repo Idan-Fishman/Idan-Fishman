@@ -6,11 +6,11 @@ With over 5 years of experience in the military industry, I am an experienced De
 
 My passion lies in designing and implementing distributed systems across AWS, Google Cloud, and hybrid environments. 🚀
 
-I am proficient in various modern tools and technologies, such as Terraform, Kubernetes, Docker, GitHub Actions, Go, Python, React, and NextJS. 🤖
+I am proficient in various modern tools and technologies, such as Terraform, Kubernetes, Docker, GitHub Actions, Rust, Go and Python 🤖
 
 If you would like my help with your team and product, feel free to **contact me.** 🤓
 
 You can find me on:
-* [My website: fishman.dev](https://fishman.dev)
+* [My website: fishman.dev](https://fishman.dev) (coming soon!)
 * [GitHub as @Idan-Fishman (you are here)](https://github.com/Idan-Fishman)
 * [LinkedIn](https://linkedin.com/in/Idan-Fishman)
